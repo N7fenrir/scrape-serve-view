@@ -1,0 +1,24 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "pxl",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src /index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N7fenrir/scrape-serve-view.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N7fenrir/scrape-serve-view/issues"
+  },
+  "homepage": "https://github.com/N7fenrir/scrape-serve-view#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^3.1.1"
+  }
+}
