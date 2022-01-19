@@ -1,0 +1,6 @@
+{
+    "env" : "dev",
+    "address": "http://localhost",
+    "port": 8000,
+    "carStore": "./cars.json"
+}
